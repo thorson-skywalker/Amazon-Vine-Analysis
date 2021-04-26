@@ -8,7 +8,7 @@ The purpose of this project was to analyze Amazon review data to determine if a 
 
 Using PySpark, I was able to create a table that broke down the data for the vine reviews vs the non-vine reviews to analyze whether there was bias in the reviews. Below you can see the table as well as a breakdown of the important information:
 
-![](Amazon-Vine-Analysis/vine_review_anaylsis.png)
+![](vine_review_anaylsis.png)
 
 - Total Vine reviews: 261
 - Total non-Vine reviews: 24,040
